@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color:rgb(141, 100, 237);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 30px;
+    margin-top: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    background:rgb(189, 255, 127);
+    cursor: pointer;
+    border-radius: 10px;
+}
